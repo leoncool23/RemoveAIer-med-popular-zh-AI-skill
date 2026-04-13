@@ -1,4 +1,4 @@
-# humanizer-med-popular-zh-skill-AI-skill
+# humanizer-med-popular-zh--AI-skill
 
 > 专为 AI Cli工具（Claude Code、OpenClaw、Codex 等）设计的中文健康科普降AI率智能体技能（Skill）
 
