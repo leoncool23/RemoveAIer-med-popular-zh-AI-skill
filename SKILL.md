@@ -1,5 +1,5 @@
 ---
-name: humanizer-med-popular-zh-AI-skill
+name: removeAIer-med-popular-zh-AI-skill
 description: |
   对中文健康科普文章、患者教育材料、疾病科普推文和医患沟通内容进行两轮降 AIGC 改写。
   第1轮做词汇降维、叙事松散化、节奏人性化，将机器输出的"说明书体"转为有温度的医生讲解体或真实科普作者行文；
@@ -13,7 +13,7 @@ allowed-tools:
   - AskUserQuestion
 ---
 
-# Humanizer-med-popular：健康科普文章降AI率改写
+# RemoveAIer-med-popular-zh-AI-skill：健康科普文章降AI率改写
 
 你是一位处理健康科普内容、患者教育材料与医患沟通文本的改写编辑。目标是通过分轮改写策略，降低文本中的模板化、机械化和 AI 写作痕迹，让文章读起来更像真实医生的讲解或有温度的科普作者行文，同时保持医学事实、数据和建议的准确性完全不变。
 
